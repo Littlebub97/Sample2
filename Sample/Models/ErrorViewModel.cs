@@ -11,3 +11,4 @@ namespace Sample.Models
 }
 
 //Fuck you you're bad at git and English
+//No u
