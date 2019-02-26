@@ -9,3 +9,5 @@ namespace Sample.Models
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
 }
+
+//Fuck you you're bad at git and English
